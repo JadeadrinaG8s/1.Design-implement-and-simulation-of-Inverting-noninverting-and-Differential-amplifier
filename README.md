@@ -95,6 +95,9 @@ u
 
   **TABULATION:**
 <img width="1600" height="548" alt="WhatsApp Image 2026-09-12 at 9 17 07 PM" src="https://github.com/user-attachments/assets/7aeadb98-43bb-486b-92ca-9a9c1fff2f62" />
+**Graph**
+<img width="2733" height="3507" alt="IMG_20260925_141726511" src="https://github.com/user-attachments/assets/c085c3a4-6b72-458d-a394-cc869f7b9a43" />
+
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
@@ -103,6 +106,9 @@ u
 
   **TABULATION:**
 <img width="1600" height="1005" alt="WhatsApp Image 2026-09-12 at 9 18 48 PM" src="https://github.com/user-attachments/assets/6df89275-a336-455b-8a6a-2d13a1eda25d" />
+**GRAPH**
+<img width="2160" height="1758" alt="WA_1790326016632" src="https://github.com/user-attachments/assets/1eefcbfd-ad46-4515-939a-e5f4d072729c" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
